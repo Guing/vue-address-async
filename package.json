@@ -1,7 +1,7 @@
 {
   "name": "vue-address-async",
   "description": "vue-address-async",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Guing <aguing@outlook.com>",
   "license": "MIT",
   "main": "dist/vue-address-async.js", 
