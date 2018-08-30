@@ -187,7 +187,7 @@ select {
   -moz-appearance: none;
   -webkit-appearance: none;
   padding: 2px 14px 2px 10px;
-  background: url("../assets/arrow.png") no-repeat scroll right center
+  background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAABLUlEQVQ4T+2TMUvEQBSEZyQEsbGzuB8hWIeQ3TQiojYaLCwsLMXCSixsLa/wHwh2h4gKIpHdEPIjLK1NYaNVclkJ3EkwuZyHKe+Vb977dpmdJToudszDHPh/Rxs91FofkvzyPG9A0jQdo5TaJDkUQjxXZ2rAKIq2jDH3I8iLZVmB67ofY6jWehHANYC9Ue9ASnkz1mtApdQOybvKrd4AbEgpX5Mk6WVZ9ghg7QdAngoh+hOBpaC1vgJwXIF+krwoiuKM5EqlP0jTdD8IgmErsBSVUicA+iQXmjw0xlz6vn/+W2sNtlJqHcAtyaXKYmaMOfJ9v/SxVlN/ShzHq3meP5HsASgfZ1tKmUwK2FRguRiG4bJlWbu2bT84jvPeltY/AWeJ+xw4i1vNs517+A0fM1UVANwghgAAAABJRU5ErkJggg==") no-repeat scroll right center
     transparent;
 }
 select::-ms-expand {
